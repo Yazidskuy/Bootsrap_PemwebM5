@@ -19,4 +19,4 @@ Cara pakainya ada beberapa macam:
 - form-control: Bikin inputan form jadi rapi dan lebarnya full
 
 5. Gambar Responsif
-Tinggal tambahin class img-fluid di dalam tag <img src="...">
+Tinggal tambahin class img-fluid di dalam tag `<img src="...">`
